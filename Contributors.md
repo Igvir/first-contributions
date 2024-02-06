@@ -7,7 +7,9 @@ happy# Contributors
 - [Samuel Bodenhemier](https://github.com/swBodenhemier)
 - [Shariar Islam](https://github.com/shariar-ms)
 - [Smihah A](https://github.com/smi-unicorn)
+- [Benjamin Cruickshank](https://github.com/OfficerClucks)
 - [Renna Carver](https://github.com/rennacarver)
+- [Diptaraj Sen](https://github.com/diptaraj23)
 - [Nicholas Gonzalez] (https://github.com/Cole2303)
 - [Eshwanth Karti T R](https://github.com/eshwanthkartitr)
 - [Azhar Aditya Pratama](https://github.com/azharadityapratama)
@@ -34,6 +36,7 @@ happy# Contributors
 - [Tyler Austin]
 - [Brady Wisniewski]
 - [AvionShea](https://github.com/AvionShea)
+- [Benjamin Cha]
 - [Nolan Newman]
 - [Eli Vatsaas]
 - [Joseph Laity]
@@ -138,6 +141,7 @@ happy# Contributors
 - [githubofkrishnadhas](https://github.com/githubofkrishnadhas)*(https://github.com/githubofkrishnadhas)*
 - [kalen](https://github.com/yokalen)
 - [Laura](https://github.com/lapatari)
+- [Nitin Verma](https://github.com/vnitin08)
 - [Eslam AbdElhakem](https://github.com/EslamAbdElhakem)
 - [Dheeraj](https://github.com/raj1802)
 - [ASJordi](https://github.com/ASJordi)
@@ -2100,6 +2104,7 @@ LadegbayeStella)
 - [Louis] (https://github.com/consistentlyUnfunny)
 - [Jordan Crosby](https://github.com/jcros81234)
 - [isley89] (https://github.com/isley89)
+- [andiamos](https://github.com/andiamos)
 - [Vishwa Priya J] (https://github.com/vishwapriya)
 - [Priyanjith N] (https://github.com/Priyanjith-N)
 - [Purple Wazard]
@@ -2136,5 +2141,6 @@ LadegbayeStella)
 - [Minuka Trikawalagoda](https://github.com/minukatrik)
 - [Aidan Trujillo](https://github.com/Aidan-Trujillo)
 - [yakataN](https://github.com/yakataN)
+- [phipno](https://github.com/phipno)
 - [rajeev](https://github.com/0221csds146)
 - 
